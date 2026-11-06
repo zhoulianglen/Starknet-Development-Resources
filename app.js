@@ -29,6 +29,7 @@ function render() {
   visible.forEach(item => {
     const card = document.createElement('a');
     card.className = 'card'; card.href = item.url;
+    card.target = '_blank'; card.rel = 'noopener noreferrer';
     const top = document.createElement('div'); top.className = 'card-top';
     const icon = document.createElement('span'); icon.className = 'resource-icon'; icon.setAttribute('aria-hidden', 'true'); icon.textContent = item.name.slice(0, 2);
     const title = document.createElement('h4'); title.textContent = item.name;
