@@ -8,7 +8,7 @@
 
 个人收集的 Starknet 开发资源导航，涵盖 SDK、开发框架、编辑器插件、示例与学习资料。
 
-[访问网站](https://starknet.imzl.com) · [提交资源](https://github.com/zhoulianglen/Starknet-Development-Resources/issues) · [联系作者](https://twitter.com/zhoulianglen)
+[访问网站](https://starknet.zhoulianglen.com) · [提交资源](https://github.com/zhoulianglen/Starknet-Development-Resources/issues) · [联系作者](https://twitter.com/zhoulianglen)
 
 </div>
 
